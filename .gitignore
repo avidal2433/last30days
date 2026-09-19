@@ -1,0 +1,14 @@
+# Artefactos de ejecución de last30days
+work/
+print/
+dist/
+*.jsonl
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
